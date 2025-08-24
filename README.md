@@ -105,8 +105,5 @@ GitHub: @ay8112
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
-Want me to help you modularize the CLI commands or scaffold agent templates for your own use case? I can even help you benchmark it against LangChain or AutoGen workflows.
 
-
