@@ -102,8 +102,6 @@ Agents can be customized via YAML or JSON configs located in the templates/ fold
 Aman Yadav
 GitHub: @ay8112
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
