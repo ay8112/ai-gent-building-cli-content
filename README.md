@@ -22,7 +22,7 @@ ai-gent-building-cli-content/ ├── exported-assets/       # Generated conte
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/ay8112/ai-gent-building-cli-content.git
+git clone https://github.com/ay8112/storygen-learning.git
 cd ai-gent-building-cli-content
 pip install -r requirements.txt
 # Initialize a new agent
